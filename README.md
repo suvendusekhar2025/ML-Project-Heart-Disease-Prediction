@@ -1,7 +1,7 @@
 # ML-Project-Heart-Disease-Prediction
 ### **Heart Disease Prediction Using Machine Learning**  
 
-This project focuses on predicting heart disease using a machine learning approach. The dataset used for this study is a **Sonar dataset** stored in a CSV file, consisting of **303 rows** and **14 columns**. The objective is to classify individuals as either having a **defective heart** or a **non-defective heart** based on relevant medical attributes.  
+This project focuses on predicting heart disease using a machine learning approach. The dataset used for this study is a **Heart Disease dataset** stored in a CSV file, consisting of **303 rows** and **14 columns**. The objective is to classify individuals as either having a **defective heart** or a **non-defective heart** based on relevant medical attributes.  
 
 #### **Tools and Libraries Used:**  
 - **Python Libraries:**  
